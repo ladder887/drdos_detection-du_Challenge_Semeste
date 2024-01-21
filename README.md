@@ -1,1 +1,1 @@
-# du-Challenge-Semester
+# DU 도전학기
